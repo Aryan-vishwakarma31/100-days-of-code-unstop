@@ -1,1 +1,1 @@
-import Day_01_chess
+# Removed tests — cleared by revert

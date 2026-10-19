@@ -33,9 +33,9 @@
 
 Clone the repository and run any script using Python:
 
-```bash
+bash
 # Clone repository
-git clone [https://github.com/YOUR_GITHUB_USERNAME/100-days-of-code-unstop.git](https://github.com/YOUR_GITHUB_USERNAME/100-days-of-code-unstop.git)
+git clone [https://github.com/Aryan-vishwakarma31/100-days-of-code-unstop.git](https://github.com/Aryan-vishwakarma31/100-days-of-code-unstop.git)
 
 # Navigate into folder
 cd 100-days-of-code-unstop/Day-01-Array-Strings

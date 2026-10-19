@@ -31,14 +31,38 @@
 
 ## 🛠️ How to Run Locally
 
-Clone the repository and run any script using Python:
+Clone the repository and run any script using Python. Example commands:
 
-bash
+```bash
 # Clone repository
-git clone [https://github.com/Aryan-vishwakarma31/100-days-of-code-unstop.git](https://github.com/Aryan-vishwakarma31/100-days-of-code-unstop.git)
+git clone https://github.com/Aryan-vishwakarma31/100-days-of-code-unstop.git
 
 # Navigate into folder
 cd 100-days-of-code-unstop/Day-01-Array-Strings
 
-# Run solution
-python chessboard.py
+# Run solution (either pass the input as an argument or via stdin)
+python chessboard.py a1
+# or
+echo "a1" | python chessboard.py
+```
+
+### Input formats (supported)
+- chessboard.py: accepts a single coordinate token like `a1` (case-insensitive). Returns `Black` or `White`.
+- distinct_k.py: supports either:
+  - first line: `n k` then second line: `s1 s2 ... sn`
+  - or token stream: `n s1 s2 ... sn k`
+  Prints the k-th distinct string (order-preserving) or `-1` if not found.
+- exchanging_gifts.py: supports either:
+  - first line: `n m` followed by `m` pairs `a b` (on following lines or same line)
+  - or token stream: `n m a1 b1 a2 b2 ...`
+  Prints the index of the "judge" (person with in_degree == n-1 and out_degree == 0) or `-1`.
+
+---
+
+## Tests
+
+I added a small pytest-compatible test suite under `tests/` (run `pytest` from the repo root to run them).
+
+---
+
+If you'd like, I can open a PR to add CI (GitHub Actions) to run tests automatically on push.

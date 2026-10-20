@@ -33,10 +33,10 @@
 
 | Problem Title | Difficulty | Points | Solution Code |
 | :--- | :---: | :---: | :---: |
-| **Pair of Subarrays** | Easy | 92 | [Pair_of_Subarrays.py](.Day-2-Brute-Force-Strings-Array/Pair_of_Subarrays.py) |
-| **Poster pointer** | Easy | 100 | [Poster_pointer.py](.Day-2-Brute-Force-Strings-Array/Poster_pointer.py) |
-| **Good Sum** | Easy | 88 | [Good_Sum.py](.Day-2-Brute-Force-Strings-Array/Good_Sum.py) |
-| **City Biker** | Easy | 100 | [City_Biker.py](.Day-2-Brute-Force-Strings-Array/City_Biker.py) |
+| **Pair of Subarrays** | Easy | 92 | [Pair_of_Subarrays.py](Day-2-Brute-Force-Strings-Array/Pair_of_Subarrays.py) |
+| **Poster pointer** | Easy | 100 | [Poster_pointer.py](Day-2-Brute-Force-Strings-Array/Poster_pointer.py) |
+| **Good Sum** | Easy | 88 | [Good_Sum.py](Day-2-Brute-Force-Strings-Array/Good_Sum.py) |
+| **City Biker** | Easy | 100 | [City_Biker.py](Day-2-Brute-Force-Strings-Array/City_Biker.py) |
 
 ---
 

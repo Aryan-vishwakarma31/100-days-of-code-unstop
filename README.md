@@ -29,6 +29,16 @@
 
 ---
 
+### 🔹 Day 2: Array, Strings
+
+| Problem Title | Difficulty | Points | Solution Code |
+| :--- | :---: | :---: | :---: |
+| **CHESSBOARD** | Easy | 100 | [chessboard.py](./Day-01-Array-Strings/chessboard.py) |
+| **Exchanging Gifts** | Easy | 100 | [exchanging_gifts.py](./Day-01-Array-Strings/exchanging_gifts.py) |
+| **Distinct K** | Easy | 100 | [distinct_k.py](./Day-01-Array-Strings/distinct_k.py) |
+
+---
+
 ## 🛠️ How to Run Locally
 
 Clone the repository and run any script using Python:

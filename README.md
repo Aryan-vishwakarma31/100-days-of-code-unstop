@@ -1,7 +1,7 @@
 # 🐍 Unstop 100-Day Coding Sprint
 
 [![Python](https://img.shields.io/badge/Language-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Progress](https://img.shields.io/badge/Progress-Day_2_%2F_100-brightgreen?style=for-the-badge)](#-daily-progress-log)
+[![Progress](https://img.shields.io/badge/Progress-Day_3_%2F_100-brightgreen?style=for-the-badge)](#-daily-progress-log)
 [![Platform](https://img.shields.io/badge/Platform-Unstop-blue?style=for-the-badge)](https://unstop.com/)
 
 > Documenting my daily progress and Python solutions for the **100-Day Coding Sprint** on Unstop.  
@@ -13,7 +13,7 @@
 
 * **Start Date:** October 19, 2026
 * **Language:** Python 3
-* **Target:** 100 Days / 300+ Problems
+* **Target:** 100 Days / 250+ Problems
 
 ---
 
